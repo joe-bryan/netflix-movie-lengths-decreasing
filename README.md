@@ -1,1 +1,2 @@
-# netflix-movie-lengths-decreasing
+# Are Netflix movies decreasing in duration?
+Hello! This is a project that I completed in DataCamp. One of the focus areas is on creating a dictionary, then making a DataFrame out of the dictionary. Afterward, visualization and filtering is used to spot trends in the data. Can I tell if movie lengths on Netflix are decreasing? The answer is no. More movies from recent years are on the platform compared to movies from 10 or more years ago, which means that the data is not balanced. Further analysis is needed to provide a better answer.
